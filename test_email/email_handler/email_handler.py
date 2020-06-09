@@ -37,4 +37,3 @@ server_process.start()
 atexit.register(stop_server)
 # Set up a connection to default server
 #connection = smtplib.SMTP("localhost", DEFAULT_PORT)
-
